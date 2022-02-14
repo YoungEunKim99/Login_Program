@@ -2,7 +2,7 @@
 TCP/IP 서버-클라이언트 구조의 로그인 프로그램
 
 ## Flow chart
-<img height="400" alt="flow_chart" src="https://user-images.githubusercontent.com/56907015/153847082-17ab8a4f-b38f-4f45-8222-a599c2687a60.png">
+<img height="700" alt="flow_chart" src="https://user-images.githubusercontent.com/56907015/153847082-17ab8a4f-b38f-4f45-8222-a599c2687a60.png">
 
 * Client <br>
 	* Server의 IP address와 port number를 입력하여 실행
