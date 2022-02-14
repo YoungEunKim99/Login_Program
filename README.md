@@ -19,4 +19,11 @@ TCP/IP 서버-클라이언트 구조의 로그인 프로그램
   * 3번 실패 시 CONNECTION 거부
 
 
-
+***
+## 실행 방법
+	1. access.txt 파일에 access를 가능하게 할 ip 주소 저장(ex 127.*.*.*)
+	2. passwd 파일에 로그인 정보 저장 (ex test1:12:0:0:test:/home/1:sh1)
+	3. './srv port_number'로 서버 실행(ex ./srv 12345)
+	4. './cli server_ip server_port' client에서 접속하고자하는 server의 ip와 server의 port number를 입력(ex ./cli 127.0.0.1 12345)
+	
+<br>  
